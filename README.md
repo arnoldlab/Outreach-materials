@@ -1,2 +1,2 @@
-# Outreach-materials
-Files used during outreach activities
+# Outreach-materials used for BLAST activities
+Files used during BLAST-related outreach activities
